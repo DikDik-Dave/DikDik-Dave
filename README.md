@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DikDik-Dave
 - 👀 I’m interested in building digital public utilities, film editing tools
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on dikdik.us, youtubi.py, FilmPy, and really anything that catches my attention.
+- 💞️ I’m looking to collaborate on FilmPy, and really anything that catches my attention.
 - 📫 How to reach me contact@dikdik.us
 - ⚡ Fun fact: 
 
